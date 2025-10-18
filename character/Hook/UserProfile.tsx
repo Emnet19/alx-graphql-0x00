@@ -1,5 +1,5 @@
-import { useQuery } from '@apollo/client';
-import { GET_USER } from '../graphql/queries';
+// import { useQuery } from '@apollo/client';
+// import { GET_USER } from '../graphql/queries';
 
 interface User {
   id: string;

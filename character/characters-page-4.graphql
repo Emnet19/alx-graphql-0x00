@@ -1,0 +1,8 @@
+query{
+    characters(page:4){
+        id,
+        name,
+        status,
+        image
+    }
+}
