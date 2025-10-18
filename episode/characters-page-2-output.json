@@ -1,0 +1,10 @@
+{
+    "data":{
+        "characters":{
+            "id":"21",
+            "name": "Antenna Morty",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg" 
+        }
+    }
+}
